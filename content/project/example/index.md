@@ -12,6 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+links:
 url_code: ""
 url_pdf: "files/CS771A_report.pdf"
 url_slides: ""
