@@ -12,8 +12,13 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "files/CS771A_report.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
